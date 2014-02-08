@@ -1,0 +1,4 @@
+Hello World
+Hello CodeEval
+This is a sentence with many spaces
+foo
