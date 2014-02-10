@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mkdir -p $1
+cp -n templates/template.$2 $1/$1.$2
+
