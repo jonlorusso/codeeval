@@ -3,3 +3,7 @@
 mkdir -p $1
 cp -n templates/template.$2 $1/$1.$2
 
+echo $1/$1 >> .gitignore
+
+vim -p $1/$1.$2 $1/$1.txt
+
