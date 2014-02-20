@@ -1,6 +1,10 @@
 bit_positions/bit_positions
 fibonacci_series/fibonacci_series
 file_size/file_size
+happy_numbers/happy_numbers
 multiplication_tables/multiplication_tables
 odd_numbers/odd_numbers
+rightmost_char/rightmost_char
+split_the_number/split_the_number
 sum_of_integers_from_file/sum_of_integers_from_file
+unique_elements/unique_elements
